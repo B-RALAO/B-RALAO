@@ -3,15 +3,15 @@
 
 <hr>
 
-- 🔭 I’m currently working on **building my portfolio and expanding my skill set**
+🔭 Currently working on **building my portfolio and expanding my skill set**
 
-- 🌱 I’m currently working to improve my skills on **Ruby, Ruby on Rails, CSS and JavaScript**
+🌱 Currently working to improve my skills on **Ruby, Ruby on Rails, CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/ralao](https://troopl.com/ralao)
+👨‍💻 Projects are available at [https://troopl.com/ralao](https://troopl.com/ralao)
 
-- 📫 Reach me through **bernralao@gmail.com**
+📫 Reach ou through **bernralao@gmail.com**
 
-- ⚡ Fun fact **I'll wake up at 5:00 if it means i can surf 40 minutes**
+⚡ Fun fact **I'll wake up at 5:00 if it means i can surf 40 minutes**
 
 <hr>
 
