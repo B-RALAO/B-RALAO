@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/ralao](https://troopl.com/ralao)
 
-- 📫 How to reach me **bernralao@gmail.com**
+- 📫 Reach me through **bernralao@gmail.com**
 
 - ⚡ Fun fact **I'll wake up at 5:00 if it means i can surf 40 minutes**
 
