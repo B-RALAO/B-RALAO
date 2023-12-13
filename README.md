@@ -11,7 +11,7 @@
 
 📫 Reach ou through **bernralao@gmail.com**
 
-⚡ Fun fact **I'll wake up at 5:00 if it means i can surf 40 minutes**
+⚡ Fun fact **I'll wake up at 6:00 if it means i can surf 45 minutes**
 
 <hr>
 
