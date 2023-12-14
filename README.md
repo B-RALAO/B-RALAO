@@ -5,7 +5,7 @@
 
 🔭 Currently working on **building my portfolio and expanding my skill set**
 
-🌱 Currently working to improve my skills on **Ruby, Ruby on Rails, CSS and JavaScript**
+🌱 Currently working to improve my skills on **JavaScript**
 
 👨‍💻 Projects are available at [https://troopl.com/ralao](https://troopl.com/ralao)
 
