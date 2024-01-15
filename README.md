@@ -9,7 +9,7 @@
 
 📫 Reach ou through **bernralao@gmail.com**
 
-⚡ Fun fact - **I'll wake up at 6:00 if it means i can surf 45 minutes**
+⚡ Fun fact - **I love surfing and dogs**
 
 <hr>
 
