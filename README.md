@@ -1,5 +1,4 @@
-<h4>Hi, I'm Bernardo 👋</h4>
-<h4>I am a junior Web Developer, living in Lisbon, Portugal.</h4>
+👋 <h4>Hi, I'm Bernardo! I am a junior Web Developer, living in Lisbon, Portugal.</h4>
 
 🔭 Currently working on **building my portfolio and expanding my skill set**
 
