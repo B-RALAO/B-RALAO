@@ -6,7 +6,7 @@
 
 🔭 Currently working on **building my portfolio, learning more, getting exposed to new problems and finding new solutions**
 
-🌱 Currently improving my skills on **JavaScript and React**, working with new libraries while developing a personal project **Surf Coaching App** and **Surfboard Rentals**
+🌱 Currently improving my skills on **JavaScript and React**, working with new libraries while developing personal projects: **Surf Coaching App** and **Surfboard Rentals**
 
 📫 Reach out through **bernralao@gmail.com**
 
