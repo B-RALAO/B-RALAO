@@ -1,6 +1,6 @@
 <h4>Hi, I'm Bernardo!</h4>
 
-<h4>a Web Developer living in Lisbon, Portugal.</h4>
+<h4>- a Web Developer living in Lisbon, Portugal.</h4>
 
 <hr>
 
