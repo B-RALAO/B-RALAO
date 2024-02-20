@@ -1,10 +1,8 @@
-<h4>Hi, I'm Bernardo!</h4>
+<h5>Hi, I'm Bernardo!</h5>
 
-<h4>- a Web Developer living in Lisbon, Portugal.</h4>
+<h5>- a Web Developer living in Lisbon, Portugal.</h5>
 
-<hr>
-
-🔭 Currently working on **building my portfolio, learning more, getting exposed to new problems and finding new solutions**
+🔭 Currently working on **building portfolio, getting exposed to new problems and finding new solutions**
 
 🌱 Currently improving my skills on **JavaScript and React**, working with new libraries while developing personal projects: **Surf Coaching App** and **Surfboard Rentals**
 
