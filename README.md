@@ -1,4 +1,4 @@
- <h4>web developer, surfer, nature and dogs lover, living in Lisbon, Portugal.</h4>
+ <h4 className="text-center">web developer, surfer, nature and dogs lover, living in Lisbon, Portugal.</h4>
 
 🔭 Working on **building portfolio, getting exposed to new problems and finding new solutions**
 🌱 Improving my skills on **JavaScript and React**, working with new libraries while developing personal projects: **Surf Coaching App** and **Surfboard Rentals**
