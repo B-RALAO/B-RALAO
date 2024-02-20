@@ -1,12 +1,9 @@
  <h4>web developer, surfer, nature and dogs lover, living in Lisbon, Portugal.</h4>
 
- Currently:
-<li>🔭working on **building portfolio, getting exposed to new problems and finding new solutions**</li>
-<li>🌱improving my skills on **JavaScript and React**, working with new libraries while developing personal projects: **Surf Coaching App** and **Surfboard Rentals**</li>
+🔭 Working on **building portfolio, getting exposed to new problems and finding new solutions**
+🌱 Improving my skills on **JavaScript and React**, working with new libraries while developing personal projects: **Surf Coaching App** and **Surfboard Rentals**
 
 📫 Reach out through **bernralao@gmail.com**
-
-⚡ Fun fact - **I love surfing**
 
 <hr>
 
