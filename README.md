@@ -1,4 +1,4 @@
-<h4>- a Web Developer, surfer, nature and dogs lover, living in Lisbon, Portugal.</h4>
+<h4>web developer, surfer, nature and dogs lover, living in Lisbon, Portugal.</h4>
 
 🔭 Currently working on **building portfolio, getting exposed to new problems and finding new solutions**
 
