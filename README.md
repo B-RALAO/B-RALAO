@@ -1,5 +1,3 @@
-<h5>Hi, I'm Bernardo!</h5>
-
 <h5>- a Web Developer living in Lisbon, Portugal.</h5>
 
 🔭 Currently working on **building portfolio, getting exposed to new problems and finding new solutions**
