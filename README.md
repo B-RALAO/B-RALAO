@@ -1,7 +1,7 @@
 <div align="left">
  <h1> 🇺🇸 / 🇵🇹 </h1>
  <h1>🌞 🌊 📸 🌻 🐶 ✈️ 🌅 </h1>
- <h1>Hard working web developer, surfer and dogs lover</h1>
+ <h1>Hard working objective oriented web developer</h1><h5>...and surfer!</h5>
  <h4>Living in Lisbon, Portugal</h4>
  
  🔭 Working on building portfolio, getting exposed to new problems and finding new solutions
