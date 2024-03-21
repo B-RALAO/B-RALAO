@@ -6,7 +6,7 @@
  <p>Working on building portfolio - getting exposed to new problems - finding new solutions</p>
  
  🎯 
- <p>Improving my skills on <b>JavaScript, React, Node, Express, MongoDB</b>, through tutorial projects, courses, videos, research and my own personal projects: <b>Surf Coaching</b>, <b>Surfboard Rentals</b> ...</p>
+ <p>Improving my skills on <b>CSS, HTML, JavaScript, React, Node, Express, MongoDB</b>, through tutorial projects, courses, videos, research and my own personal projects: <b>Surf Coaching</b>, <b>Surfboard Rentals</b> ...</p>
  
  🌱 
  <p>Eager to learn more <b>everyday</b>!</p>
