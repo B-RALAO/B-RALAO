@@ -5,7 +5,7 @@
  <p> 🎯 Learning, improving and expanding my skills on <b>CSS, HTML, JavaScript, React, Node, Express, MongoDB</b></p>
   
 
- <p> 🐙 Personal projects: <b>Surf Coaching</b>, <b>Surfboard Rentals</b> ...</p>
+ <p> 🐙 Personal projects: <b>Surf Coaching App</b>, <b>Surfboard Rentals</b> ...</p>
  
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bralao&show_icons=true&locale=en&layout=compact" alt="bralao" /></p>
 
