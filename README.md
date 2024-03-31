@@ -2,7 +2,7 @@
  <p> 🌊 📸 🌻 🐶 ✈️ 🌅 </p> 
   
  
- <p> 🎯 Learning, improving and expanding my skills on <b>CSS, HTML, JavaScript, React, Node, Express, MongoDB</b></p>
+ <p> 🎯 Learning, improving and expanding my skills on <b>HTML, CSS, JavaScript, React, Node, Express, MongoDB</b></p>
   
 
  <p> 🐙 Personal projects: <b>Surf Coaching App</b>, <b>Surfboard Rentals</b> ...</p>
