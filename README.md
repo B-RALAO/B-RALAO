@@ -1,9 +1,9 @@
 <div align="center">
  <p> 🌊 📸 🌻 🐶 ✈️ 🌅 </p> 
   
- 
- <p> 🎯 Working on projects with <b>HTML, CSS, JavaScript, React, Node, Express, MongoDB</b></p>
- <p>🎯<b> Open to learn new languages everyday</b></p>
+  <p>🎯<b> Open to learn new languages everyday</b></p>
+
+ <p> Working on projects with HTML, CSS, JavaScript, React, Node, Express, MongoDB</p>
 
  <p> 🐙 Personal projects: <b>Surf Coaching App</b>, <b>Surfboard Rentals</b> ...</p>
  
