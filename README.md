@@ -1,11 +1,9 @@
 <div align="center">
  <p> 🌊 📸 🌻 🐶 ✈️ 🌅 </p> 
   
-  <p>🎯<b> Open to learn new languages everyday</b></p>
+  <p>🐙<b> Open to learn new languages everyday</b></p>
 
- <p> Working on projects with HTML, CSS, JavaScript, React, Node, Express, MongoDB</p>
-
- <p> 🐙 Personal projects: <b>Surf Coaching App</b>, <b>Surfboard Rentals</b> ...</p>
+ <p>🎯 Working on projects with HTML, CSS, JavaScript, React, Node, Express, MongoDB</p>
  
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bralao&show_icons=true&locale=en&layout=compact" alt="bralao" /></p>
 
