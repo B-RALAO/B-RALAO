@@ -1,5 +1,4 @@
 <div align="center">
- <p> 🌊 📸 🌻 🐶 ✈️ 🌅 </p> 
   
   <p>🐙<b> Open to learn new languages everyday</b></p>
 
