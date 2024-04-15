@@ -1,8 +1,8 @@
 <div align="center">
   
-  <p>🐙<b> Open to learn new languages everyday</b></p>
+  <p><b> Open to learn new languages everyday</b></p>
 
- <p>🎯 Working on projects with HTML, CSS, JavaScript, React, Node, Express, MongoDB</p>
+ <p>Working on personal projects</p>
  
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bralao&show_icons=true&locale=en&layout=compact" alt="bralao" /></p>
 
